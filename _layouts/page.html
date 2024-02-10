@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href={{ site.baseurl }}/css/main.css>
+  </head>
+
+
+  <body>
+    <header>
+      {% include navbar.html %}
+
+    </header>
+    
+    <div class="container">
+
+      {{ content }}
+
+    </div>
+  
+    <footer>
+      <div class="footer">
+        <p>2022 - Built by <a href="http://www.perceivelab.com/index">the PeRCeiVe Lab</a></p>
+      </div>
+    </footer>
+  </body>
+
+</html>

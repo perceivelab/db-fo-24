@@ -1,0 +1,9 @@
+name: Database (F-O)
+markdown: kramdown
+
+baseurl: "/db-fo-24"
+url: "https://perceivelab.github.io"
+theme: jekyll-theme-cayman
+
+plugins:
+  - jemoji

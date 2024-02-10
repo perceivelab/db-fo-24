@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,900&family=Roboto:ital,wght@0,500;1,400&display=swap');
+
+body { 
+    margin: 60px auto;
+    width: 80%; 
+}
+
+a { 
+    text-decoration: none;
+    color: #FF4D00;
+}
+a:hover { text-decoration: underline; }
+
+#logo {
+    display: flex;
+    justify-content: center;
+}
+
+#logo a {
+    width: 80%;
+}
+
+#logo img {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 1.5em Helvetica Arial, sans-serif;
+}
+table thead th {
+    border-bottom: solid 2px #FF4D00;
+    color: #3c3c3c;
+    padding: 10px;
+    text-align: left;
+}
+table tbody td {
+    border-bottom: solid 1px #ccc;
+    color: #737373;
+    padding: 0.8em;
+}
+table tbody tr:nth-child(odd){
+  background-color: #f6f6f6;
+  color: #737373;
+}
+
+p, ul { 
+    font-size: 1.5rem; 
+    line-height: 1.4em; 
+    color: #737373; 
+}
+
+h1, h2, h3, h4 { 
+    font-family: 'Space Mono', monospace;
+    color: #3c3c3c 
+}
+
+h1 { font-size: 3rem; }
+h2 { font-size: 2.7rem; }
+h3 { font-size: 2.3rem; }
+h4 { font-size: 1.9rem; }
+
+.welcome {
+    font-family: 'Lato', 'sans-serif';
+    animation-name: fadein;
+    animation-duration: 3s;
+}
+
+#tag img{
+    height: 32px;
+    width: auto;
+}
+
+.container {
+    width:100%;
+}
+
+nav ul, footer ul { 
+    font-size: 1em;
+    font-family: 'Helvetica', 'Arial';
+    padding: 0px; 
+    list-style: none; 
+    font-weight: bold; 
+}
+
+nav ul li, footer ul li { 
+    display: inline;
+    margin-right: 20px;
+}
+
+nav { font-size: 1.8em; color: #6562a8 }
+
+footer { 
+    border-top: 1px solid #d5d5d5; 
+    font-size: .8em;
+    text-align: right;
+    margin-top: 100px;
+}
+
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@media(max-width: 500px) {
+    img {
+        width: 100%;
+    }
+    
+    body {
+        font-size: 14px;
+        flex-direction: column;
+        align-items: center;
+        margin: 10% auto auto 10%;
+        display: flex;
+    }
+    
+    table {
+        display: block;
+        font-size: 1em;
+    }
+    
+    nav ul, footer ul { 
+        font-size: 1rem;
+    }
+    
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.4em;
+    }
+    p, ul {
+        font-size: 1rem;
+    }
+    #tag img {
+        height: auto;
+        width: auto;
+    }
+}
+
+
