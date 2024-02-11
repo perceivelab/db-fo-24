@@ -3,7 +3,7 @@ layout: default
 ---
 {: .welcome} 
 
-## Orario delle lezioni
+### Orario delle lezioni
 
 **TBD**
 
@@ -12,12 +12,12 @@ layout: default
 | Lunedì 14-17    |  T1  | 
 | Mercoledì 12-14 |  V4  | 
 
-## Comunicazioni
+### Comunicazioni
 {: #tag}
 
 Durante il corso si utilizzera' il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/fGSCvYHpfv) entro il 10 Ottobre 2023.
 
-## Lezioni
+### Lezioni
 
 Il programma delle lezioni è provvisorio e può subire variazioni.
 
@@ -46,7 +46,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esecitazione progettazione logica         | 06 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1FxgOPBFh3eEDcDCXQEH9osvpgX-Ur4yd/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1ZusA9Ez7uIxkHEeSF-W_6OApwEnNth1c/view?usp=sharing) | 
 | Esecitazione finale SQL                   | 13 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1lpLrrkaoQsGvxYY3WqWPZBjMwrovMOhX/view?usp=sharing), [Dati](https://drive.google.com/file/d/1dC_TwLnKpnBetiTC6StZD031chHjwUH1/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1mXuyo69WavNkJN2LiIrwZ3RuzKrXX-zY/view?usp=sharing) | 
 
-## Esami
+### Esami
 
 Gli studenti che **frequentano** il corso possono partecipare alle due prove in itinere, che saranno svolte durante il periodo delle lezioni: 1) prova pratica di SQL; 2) prova di progettazione.
 
@@ -55,7 +55,7 @@ La prova integrata consiste nella progettazione di una base di dati, a partire d
 
 In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti o Studium (secondo indicazioni dei docenti).
 
-## Contatti e ricevimento
+### Contatti e ricevimento
 
 - [Simone Palazzo](mailto:simone.palazzo@unict.it)
 - [Isaak Kavasidis](mailto:kavasidis@dieei.unict.it)
