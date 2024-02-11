@@ -15,7 +15,9 @@ layout: default
 ### Comunicazioni
 {: #tag}
 
-Durante il corso si utilizzera' il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/fGSCvYHpfv) entro il 10 Ottobre 2023.
+Durante il corso si utilizzerà **Discord** come canale principale di comunicazioni e per il supporto agli studenti.
+Di seguito il link di invito al server del corso:
+![](imgs/discord.png)
 
 ### Lezioni
 
