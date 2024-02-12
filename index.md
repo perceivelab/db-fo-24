@@ -16,7 +16,7 @@ layout: default
 {: #tag}
 
 Durante il corso si utilizzerà **Discord** come canale principale di comunicazioni e per il supporto agli studenti.
-Di seguito il link di invito al server del corso:
+Di seguito l'indirizzo per accedere al server del corso:
 ![](imgs/discord.png)
 
 #### Lezioni
