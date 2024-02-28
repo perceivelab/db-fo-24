@@ -64,8 +64,8 @@ In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti
 - [Isaak Kavasidis](mailto:kavasidis@dieei.unict.it)
 
 Gli orari di ricevimento sono i seguenti:
-- martedì, dalle 17 alle 18
-- mercoledì, dalle 17 alle 18
+- martedì, dalle 17:30 alle 18:30
+- venerdì, dalle 12:00 alle 13:00
 
 I ricevimenti possono essere tenuti di presenza, presso il Polo Tecnologico, Lab. Mednetna, o online.
 È consigliabile contattare i docenti via e-mail prima di presentarsi al ricevimento, per ogni evenienza.
