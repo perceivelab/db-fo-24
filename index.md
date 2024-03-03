@@ -36,16 +36,16 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione trigger                     | 8 aprile | 
 | Esercitazione SQL                         | 15 aprile | 
 | Esercitazione SQL                         | 17 aprile | 
-| Prova in itinere                          | 6 maggio | 
-| NoSQL                                     | 8 maggio | 
-| Esercitazione NoSQL                       | 13 maggio | 
-| Progettazione concettuale                 | 20 maggio | 
-| Esercitazione progettazione concettuale   | 22 maggio | 
-| Progettazione logica                      | 27 maggio | 
-| Esercitazione progettazione logica        | 29 maggio | 
+| Prova in itinere                          | 19 aprile | 
+| NoSQL                                     | 6 maggio | 
+| Esercitazione NoSQL                       | 8 maggio | 
+| Progettazione concettuale                 | 13 maggio | 
+| Esercitazione progettazione concettuale   | 20 maggio | 
+| Progettazione logica                      | 22 maggio | 
+| Esercitazione progettazione logica        | 27 maggio | 
+| Esercitazione di progettazione            | 29 maggio | 
 | Esercitazione di progettazione            | 3 giugno | 
-| Esercitazione di progettazione            | 5 giugno | 
-| Prova in itinere                          | 10 giugno | 
+| Prova in itinere                          | 5 giugno | 
 
 #### Esami
 
