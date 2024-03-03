@@ -24,28 +24,28 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 
 | Argomento                                 | Data             | Slides                          | Codice/Altro      |
 |-------------------------------------------|------------------|-------------------------------  |-------------|
-| Introduzione Corso                        | 02 Ottobre 2023  |
-| Modello relazionale                       | 02 Ottobre 2023  | 
-| Algebra relazionale                       | 04 Ottobre 2023  | 
-| Esercitazione Algebra relazionale         | 09 Ottobre 2023  |    
-| SQL: Concetti di base                     | 11 Ottobre 2023  | 
-| Esercitazione MySQL                       | 16 Ottobre 2023  | 
-| SQL: Operatori aggregati                  | 18 Ottobre 2023  | 
-| Esercitazione operatori aggregati         | 23 Ottobre 2023  | 
-| SQL Avanzato: Viste, Trigger e Procedure  | 25 Ottobre 2023  | 
-| Esercitazione  Trigger e Procedure        | 30 Ottobre 2023  | 
-| Esercitazione  Complessiva SQL - 1        | 06 Novembre 2023 | 
-| Esercitazione  Complessiva SQL - 2        | 08 Novembre 2023 | 
-| Simulazione Prova SQL                     | 13 Novembre 2023 | 
-| Progettazione Concettuale                 | 15 Novembre 2023 | 
-| Esercizi progettazione concettuale        | 20 Novembre 2023 | 
-| Progettazione logica                      | 22 Novembre 2023 | 
-| Esercitazione progettazione logica        | 27 Novembre 2023 | 
-|                                           | 27 Novembre 2023 | 
-| Esercitazione progettazione logica        | 29 Novembre 2023 | 
-| Simulazione prova di progettazione        | 04 Dicembre 2023 | 
-| Esecitazione progettazione logica         | 06 Dicembre 2023 | 
-| Esecitazione finale SQL                   | 13 Dicembre 2023 | 
+| Introduzione Corso                        | 6 marzo |
+| Modello relazionale                       | 6 marzo | 
+| Algebra relazionale                       | 11 marzo | 
+| Esercitazione algebra relazionale         | 13 marzo |    
+| SQL: concetti di base                     | 18 marzo | 
+| SQL avanzato                              | 20 marzo | 
+| Esercitazione SQL di base                 | 25 marzo | 
+| SQL: procedure e trigger                  | 27 marzo | 
+| Esercitazione procedure                   | 3 aprile | 
+| Esercitazione trigger                     | 8 aprile | 
+| Esercitazione SQL                         | 15 aprile | 
+| Esercitazione SQL                         | 17 aprile | 
+| Prova in itinere                          | 6 maggio | 
+| NoSQL                                     | 8 maggio | 
+| Esercitazione NoSQL                       | 13 maggio | 
+| Progettazione concettuale                 | 20 maggio | 
+| Esercitazione progettazione concettuale   | 22 maggio | 
+| Progettazione logica                      | 27 maggio | 
+| Esercitazione progettazione logica        | 29 maggio | 
+| Esercitazione di progettazione            | 3 giugno | 
+| Esercitazione di progettazione            | 5 giugno | 
+| Prova in itinere                          | 10 giugno | 
 
 #### Esami
 
