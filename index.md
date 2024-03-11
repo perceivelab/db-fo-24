@@ -64,9 +64,9 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
   - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa. 
   - almeno 4 dei 5 homework che verranno assegnati durante la prima metà del corso
     
-    |#      | Homework                  | Data Assegnazione | Data Consegna    |
+    |       | Homework                  | Data Assegnazione | Data Consegna    |
     |------ | ------------------------- | ----------------  | ---------------- |
-    | 1     | Algebra Relazionale       | 15 Marzo 2024     | 22 Marzo 2024    |
+    | 1     | Algebra Relazionale       | 15 marzo     |      22 marzo    |
     | 2     |                           |                   |                  |
     | 3     |                           |                   |                  |
     | 4     |                           |                   |                  |
