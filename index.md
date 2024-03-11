@@ -26,7 +26,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 |-------------------------------------------|------------------|-------------------------------  |-------------|
 | Introduzione Corso                        | 6 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EcEQo0RU_HBEghaVtbzMlKkBFz4dkVDQEbVolZUmJ_lXRw?e=0zzyoT)
 | Modello relazionale                       | 6 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUYekvU8Ec9Oj4CYHyXNHo0BdiYQinHlffKWkCFTcR-3Jw?e=v5UrQR)
-| Algebra relazionale                       | 11 marzo | 
+| Algebra relazionale                       | 11 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EfOjXxpmWtVKpeM0qJyJR1wB39FAFL6JJYEi9heyoijMlg?e=NGHcJO)
 | Esercitazione algebra relazionale         | 13 marzo |    
 | SQL: concetti di base                     | 18 marzo | 
 | SQL avanzato                              | 20 marzo | 
