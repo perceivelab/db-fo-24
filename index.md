@@ -56,6 +56,22 @@ La prova integrata consiste nella progettazione di una base di dati, a partire d
 
 In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti o Studium (secondo indicazioni dei docenti).
 
+#### Prove in itinere
+
+**Prova in itinere 1: SQL**
+
+L'accesso alla prova in itinere è subordinato alla consegna di:
+  - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa. 
+  - almeno 4 dei 5 homework che verranno assegnati durante la prima metà del corso
+    
+    |#      | Homework                  | Data Assegnazione | Data Consegna    |
+    |------ | ------------------------- | ----------------  | ---------------- |
+    | 1     | Algebra Relazionale       | 15 Marzo 2024     | 22 Marzo 2024    |
+    | 2     |                           |                   |                  |
+    | 3     |                           |                   |                  |
+    | 4     |                           |                   |                  |
+    | 5     |                           |                   |                  |
+
 #### Contatti e ricevimento
 
 - [Simone Palazzo](mailto:simone.palazzo@unict.it)
