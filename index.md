@@ -27,7 +27,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Introduzione Corso                        | 6 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EcEQo0RU_HBEghaVtbzMlKkBFz4dkVDQEbVolZUmJ_lXRw?e=0zzyoT)
 | Modello relazionale                       | 6 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUYekvU8Ec9Oj4CYHyXNHo0BdiYQinHlffKWkCFTcR-3Jw?e=v5UrQR)
 | Algebra relazionale                       | 11 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EfOjXxpmWtVKpeM0qJyJR1wB39FAFL6JJYEi9heyoijMlg?e=NGHcJO)
-| Esercitazione algebra relazionale         | 13 marzo |  |  [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EegBD2LLquFKtQYR74IcJZABwNl13VOF4PBjTaMOkeTy8A?e=QcnpO5)
+| Esercitazione algebra relazionale         | 13 marzo |  |  [Testo 1](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ERyyqBsJBbZGvWIT6lUqbFwBI8Uvpusv7LRY8eFPqzx1JQ?e=lHadKF), [Testo 2](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EegBD2LLquFKtQYR74IcJZABwNl13VOF4PBjTaMOkeTy8A?e=QcnpO5)
 | SQL: concetti di base                     | 18 marzo | 
 | SQL avanzato                              | 20 marzo | 
 | Esercitazione SQL di base                 | 25 marzo | 
