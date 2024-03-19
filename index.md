@@ -28,13 +28,13 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Algebra relazionale                       | 11 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EfOjXxpmWtVKpeM0qJyJR1wB39FAFL6JJYEi9heyoijMlg?e=NGHcJO)
 | Esercitazione algebra relazionale         | 13 marzo |  |  [Testo 1](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ERyyqBsJBbZGvWIT6lUqbFwBI8Uvpusv7LRY8eFPqzx1JQ?e=lHadKF), [Testo 2](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EegBD2LLquFKtQYR74IcJZABwNl13VOF4PBjTaMOkeTy8A?e=QcnpO5)
 | SQL: concetti di base                     | 18 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EfOjXxpmWtVKpeM0qJyJR1wB39FAFL6JJYEi9heyoijMlg?e=NGHcJO)
-| SQL avanzato                              | 20 marzo | 
-| Esercitazione SQL di base                 | 25 marzo | 
-| SQL: procedure e trigger                  | 27 marzo | 
-| Esercitazione procedure                   | 3 aprile | 
-| Esercitazione trigger                     | 8 aprile | 
+| SQL Operatori Aggregati + Esercitazione MySQL Base                              | 20 marzo | 
+| SQL Query Nidificate + Esercitazione op. aggregati                 | 25 marzo | 
+| SQL Avanzato: Stored Procedure e Trigger                  | 27 marzo | 
+| Esercitazione Procedure + Trigger                   | 3 aprile | 
+| Esercitazione SQL                     | 8 aprile | 
 | Esercitazione SQL                         | 15 aprile | 
-| Esercitazione SQL                         | 17 aprile | 
+| Simulazione prova in itinere                         | 17 aprile | 
 | Prova in itinere                          | 19 aprile | 
 | NoSQL                                     | 6 maggio | 
 | Esercitazione NoSQL                       | 8 maggio | 
