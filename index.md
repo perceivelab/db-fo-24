@@ -37,8 +37,8 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Simulazione prova in itinere                         | 17 aprile | 
 | Prova in itinere                          | 19 aprile | 
 | NoSQL                                     | 6 maggio | 
-| Esercitazione NoSQL                       | 8 maggio | 
-| Progettazione concettuale                 | 13 maggio | 
+| Esercitazione NoSQL                       | 13 maggio | 
+| Progettazione concettuale                 | 15 maggio | 
 | Esercitazione progettazione concettuale   | 20 maggio | 
 | Progettazione logica                      | 22 maggio | 
 | Esercitazione progettazione logica        | 27 maggio | 
