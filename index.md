@@ -29,7 +29,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione algebra relazionale         | 13 marzo |  |  [Testo 1](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ERyyqBsJBbZGvWIT6lUqbFwBI8Uvpusv7LRY8eFPqzx1JQ?e=lHadKF), [Testo 2](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EegBD2LLquFKtQYR74IcJZABwNl13VOF4PBjTaMOkeTy8A?e=QcnpO5)
 | SQL: concetti di base                     | 18 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZCqau5P5DNAquqqQ_88oNgBmEbykzh1UqWc4Jm7QkDhSQ?e=aveCMY)
 | SQL Operatori Aggregati + Esercitazione MySQL Base                              | 20 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ef1UReCEFR1Agf1-9C1cVTMBuyFlx7vO6iVniAp3xZwnfQ?e=fLWEWS) |[Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUAclowZE5BMrTBVJVtNZZoBjDekvoaBN1zEjTR0-hfGgQ?e=Lj9LzN), [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EdnUuwVmiLhAuLXRs425QlsBbep0Jj74rMGxgKsnu7qr4Q?e=vHExVq)
-| SQL Query Nidificate + Esercitazione op. aggregati                 | 25 marzo | 
+| SQL Query Nidificate + Esercitazione op. aggregati                 | 25 marzo | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETv1_9U9leNOksuhrsYS56cBS0BCQu1jQs_xBF4mXHjSMw?e=E5mlLH) |
 | SQL Avanzato: Stored Procedure e Trigger                  | 27 marzo | 
 | Esercitazione Procedure + Trigger                   | 3 aprile | 
 | Esercitazione SQL                     | 8 aprile | 
