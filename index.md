@@ -74,8 +74,8 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 |------ | ------------------------- | ----------------  | ---------------- |
 | 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1)       | 15 marzo          | 22 marzo         |
 | 2     | [SQL](https://tinyurl.com/hw2basesql)                          |  22 marzo                 | 29 marzo                 |
-| 3     |                           |                   |                  |
-| 4     |                           |                   |                  |
+| 3     | SQL Operatori Aggregati                                      | 28 marzo     | 4 aprile   |
+| 4     | Procedure e Trigger                                          | 29 marzo     | 9 aprile   |
 | 5     |                           |                   |                  |
 
 #### Contatti e ricevimento
