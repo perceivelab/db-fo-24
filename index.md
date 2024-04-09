@@ -68,7 +68,7 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 | 2     | Esercitazione SQL        | 15 aprile     | 
 | 3     | Simulazione Prova in itinere              | 17 aprile     |
 
-  - almeno 4 dei 5 homework che verranno assegnati durante la prima metà del corso
+  - almeno 3 dei 4 homework che verranno assegnati durante la prima metà del corso
 
 |       | Homework                  | Data Assegnazione | Data Consegna    |
 |------ | ------------------------- | ----------------  | ---------------- |
@@ -76,7 +76,6 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 | 2     | [SQL](https://tinyurl.com/hw2basesql)                          |  22 marzo                 | 29 marzo                 |
 | 3     | [SQL Operatori Aggregati](https://tinyurl.com/hw3aggr)                                      | 28 marzo     | 4 aprile   |
 | 4     | [Procedure e Trigger](https://tinyurl.com/hw4trigger)                                          | 29 marzo     | 9 aprile   |
-| 5     |                           |                   |                  |
 
 #### Contatti e ricevimento
 
