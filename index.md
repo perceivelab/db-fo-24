@@ -35,7 +35,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione SQL                     | 8 aprile | | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZxKnmkkLUFGo6C1GRyS_LYBLQgzXOxtQzmZTYL2gYP64A?e=ylGh3E), [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EcyXwD6f8DtGvqvrwu1NFhsB_ed0864mACs9pDAjKFIZ4Q?e=axHjhY), [Soluzione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EQd7nqYs0hNNiMSKUzwsnp4Bm3JHN8e7WxyhcyS8UQ5bMg?e=b7ddR1) |
 | Esercitazione SQL                         | 15 aprile | | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EWzcH8SV0F1KpwRvntS6jFQBgNdmORBpCfi1kP7twsZw9A?e=N21zaj), [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ES23m4KJDQlHnH6VmZW8ty8BMxS9JYulhf1SE-YwQ7_rDA?e=zGRb9o) |
 | Simulazione prova in itinere                         | 17 aprile | 
-| Prova in itinere                          | 19 aprile | 
+| Prova in itinere                          | **29 aprile** | 
 | NoSQL                                     | 6 maggio | 
 | Esercitazione NoSQL                       | 13 maggio | 
 | Progettazione concettuale                 | 15 maggio | 
