@@ -36,14 +36,14 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione SQL                         | 15 aprile | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EWzcH8SV0F1KpwRvntS6jFQBgNdmORBpCfi1kP7twsZw9A?e=N21zaj), [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ES23m4KJDQlHnH6VmZW8ty8BMxS9JYulhf1SE-YwQ7_rDA?e=zGRb9o) |
 | Simulazione prova in itinere                         | 17 aprile | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETG6PpMprShPgl3ehDXHZ6YBSxp5LMeDjEtXiQ0D04QYqA?e=QLc3n4), [Soluzione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXKNtto2dDNMtjij1LHwf3EBa0yyURGfVZtpaoKpvUKySw?e=wVIZRj) |
 | Prova in itinere                          | **29 aprile** | 
-| NoSQL                                     | 6 maggio | 
-| Esercitazione NoSQL                       | 13 maggio | 
-| Progettazione concettuale                 | 15 maggio | 
-| Esercitazione progettazione concettuale   | 20 maggio | 
-| Progettazione logica                      | 22 maggio | 
-| Esercitazione progettazione logica        | 27 maggio | 
-| Esercitazione di progettazione            | 29 maggio | 
-| Esercitazione di progettazione            | 3 giugno | 
+| Progettazione concettuale                 | 6 maggio | 
+| Esercitazione progettazione concettuale   | 13 maggio | 
+| Progettazione logica                      | 15 maggio | 
+| Esercitazione progettazione logica        | 20 maggio | 
+| Esercitazione di progettazione            | 22 maggio | 
+| Esercitazione di progettazione            | 27 maggio | 
+| NoSQL                                     | 29 maggio | 
+| Esercitazioni NoSQL                       | 3 giugno | 
 | Prova in itinere                          | 5 giugno | 
 
 #### Esami
