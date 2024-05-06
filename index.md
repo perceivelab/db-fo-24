@@ -36,7 +36,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione SQL                         | 15 aprile | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EWzcH8SV0F1KpwRvntS6jFQBgNdmORBpCfi1kP7twsZw9A?e=N21zaj), [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ES23m4KJDQlHnH6VmZW8ty8BMxS9JYulhf1SE-YwQ7_rDA?e=zGRb9o) |
 | Simulazione prova in itinere                         | 17 aprile | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETG6PpMprShPgl3ehDXHZ6YBSxp5LMeDjEtXiQ0D04QYqA?e=QLc3n4), [Soluzione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXKNtto2dDNMtjij1LHwf3EBa0yyURGfVZtpaoKpvUKySw?e=wVIZRj) |
 | Prova in itinere                          | **29 aprile** | 
-| Progettazione concettuale                 | 6 maggio | 
+| Progettazione concettuale                 | 6 maggio | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQ_F5Vc1uBBHg5drpwnjuHoBBtnLicGjT6IgrSB9hbXCRQ?e=6EoO4k) |
 | Esercitazione progettazione concettuale   | 13 maggio | 
 | Progettazione logica                      | 15 maggio | 
 | Esercitazione progettazione logica        | 20 maggio | 
