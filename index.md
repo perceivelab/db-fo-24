@@ -39,7 +39,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Progettazione concettuale                 | 6 maggio | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQ_F5Vc1uBBHg5drpwnjuHoBBtnLicGjT6IgrSB9hbXCRQ?e=6EoO4k) |
 | Esercitazione progettazione concettuale   | 13 maggio | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQdWLgF7E7hBvUJ0gUwEtusB3vINJS3OhPXrcfVCj3Zelw?e=q9FZ8K) |
 | Progettazione logica                      | 15 maggio | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaocZFouZrVHoQw1VVECmBIB6rU0_JcGm7Y0pQIMGCfvJg?e=t35oJY) |
-| Esercitazione progettazione logica        | 20 maggio | 
+| Esercitazione progettazione logica        | 21 maggio | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETc701fvcVhNqaI7534bm24BD06BFJPEBsU516JWSD9MlQ?e=hqgspb) | 
 | Esercitazione di progettazione            | 22 maggio | 
 | Esercitazione di progettazione            | 27 maggio | 
 | NoSQL                                     | 29 maggio | 
