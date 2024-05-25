@@ -44,7 +44,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione di progettazione            | 27 maggio | 
 | NoSQL                                     | 29 maggio | 
 | Esercitazioni NoSQL                       | 3 giugno | 
-| Prova in itinere                          | 5 giugno | 
+| Prova in itinere                          | 7 giugno | 
 
 #### Esami
 
