@@ -35,7 +35,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione SQL                     | 8 aprile | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZxKnmkkLUFGo6C1GRyS_LYBLQgzXOxtQzmZTYL2gYP64A?e=ylGh3E), [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EcyXwD6f8DtGvqvrwu1NFhsB_ed0864mACs9pDAjKFIZ4Q?e=axHjhY), [Soluzione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EQd7nqYs0hNNiMSKUzwsnp4Bm3JHN8e7WxyhcyS8UQ5bMg?e=b7ddR1) |
 | Esercitazione SQL                         | 15 aprile | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EWzcH8SV0F1KpwRvntS6jFQBgNdmORBpCfi1kP7twsZw9A?e=N21zaj), [Dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ES23m4KJDQlHnH6VmZW8ty8BMxS9JYulhf1SE-YwQ7_rDA?e=zGRb9o) |
 | Simulazione prova in itinere                         | 17 aprile | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETG6PpMprShPgl3ehDXHZ6YBSxp5LMeDjEtXiQ0D04QYqA?e=QLc3n4), [Soluzione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXKNtto2dDNMtjij1LHwf3EBa0yyURGfVZtpaoKpvUKySw?e=wVIZRj) |
-| Prova in itinere                          | **29 aprile** | **[Risultati](https://studentiunict-my.sharepoint.com/:f:/g/personal/f_proiettosalanitri_unict_it/EqizuAyjOJJHu3IBXOPcRygBDDZwM5dMPFFymfeQIlh5Og?e=eyMaNH)**
+| Prova in itinere                          | **29 aprile** | **[Risultati](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EXtnww9vOvFDqTqFs3bnAzMBVMO63UEduSDE9-BZ981kKQ?e=ZfcD0g)**
 | Progettazione concettuale                 | 6 maggio | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQ_F5Vc1uBBHg5drpwnjuHoBBtnLicGjT6IgrSB9hbXCRQ?e=6EoO4k) |
 | Esercitazione progettazione concettuale   | 13 maggio | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQdWLgF7E7hBvUJ0gUwEtusB3vINJS3OhPXrcfVCj3Zelw?e=q9FZ8K) |
 | Progettazione logica                      | 15 maggio | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaocZFouZrVHoQw1VVECmBIB6rU0_JcGm7Y0pQIMGCfvJg?e=t35oJY) |
@@ -59,7 +59,7 @@ In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti
 
 **Prova in itinere 1: SQL**
 
-**[Risultati](https://studentiunict-my.sharepoint.com/:f:/g/personal/f_proiettosalanitri_unict_it/EqizuAyjOJJHu3IBXOPcRygBDDZwM5dMPFFymfeQIlh5Og?e=eyMaNH)**
+**[Risultati](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EXtnww9vOvFDqTqFs3bnAzMBVMO63UEduSDE9-BZ981kKQ?e=ZfcD0g)**
 
 L'accesso alla prova in itinere è subordinato alla consegna di:
   - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa.
