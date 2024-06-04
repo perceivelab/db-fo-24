@@ -43,7 +43,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione di progettazione            | 22 maggio | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaARkPnuMd1Fr7SzJykDeToB2hD5ZP9yfeYaDZkeoUgqOQ?e=oV6yZP), [Soluzione](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ERMdLpjVHMtDo1dmKiASZ58BE4EY2VN08LQfKQ-qeuOBZg?e=uEZTKu) |
 | Esercitazione di progettazione            | 29 maggio | [Testo 1](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ERsTK5qeLzlLiaMtKZW-_dYBh4qkZXOgX1ftFCqp99gRiw?e=nydfAJ), [Testo 2](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EeDtGCJYqCxEhNhQv4cLK8wB2QFrqgWB1quP0jy_lhVO7w?e=Pa1W05) |
 | Esercitazione di progettazione                                     | 3 giugno | [Testo](https://tinyurl.com/exsubtext), [Soluzione](https://tinyurl.com/eximmsol) |
-| Esercitazione di progettazione                       | 5 giugno | 
+| Esercitazione di progettazione                       | 5 giugno | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EY31jBS0IAtAuZeUFeUte78Binx6214hTz0uHlvtW8NaNQ?e=QCnr93) |
 | Prova in itinere                          | 7 giugno | 
 
 #### Esami
